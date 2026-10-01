@@ -2,7 +2,9 @@
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="pleasant-kaif's GitHub profile" src="dark_mode.svg" />
-</picture>## Hi there 👋
+</picture>
+
+## Hi there 👋
 
 <!--
 **pleasant-kaif/pleasant-kaif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
